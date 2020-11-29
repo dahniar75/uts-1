@@ -209,11 +209,14 @@
                     <li>
                         <a class="active-menu" href="index"><i class="fa fa-dashboard"></i> Dashboard</a>
                     </li>
+                    <li>
+                        <a href="{{url('/produk')}}"><i class="fa fa-desktop"></i>Produk</a>
+                    </li>
           <li>
-                        <a href="{{url('template')}}"><i class="fa fa-bar-chart-o"></i>Artikel </a>
+                        <a href="grafik"><i class="fa fa-bar-chart-o"></i>Grafik Penjualan </a>
                     </li>
                     <li>
-                        <a href="{{url('user')}}"><i class="fa fa-user"></i>user</a>
+                        <a href="profil"><i class="fa fa-user"></i>user</a>
                     </li>
             </div>
 
